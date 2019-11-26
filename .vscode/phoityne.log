@@ -1,0 +1,15 @@
+2019-11-25 09:34:27 [ThreadId 15] ERROR phoityne - "error: Data constructor not in scope: Direction"
+2019-11-25 09:34:31 [ThreadId 15] ERROR phoityne - "error: Data constructor not in scope: Haskell"
+2019-11-25 16:31:18 [ThreadId 15] ERROR phoityne - [WARN] source command is not supported. ignored.
+2019-11-25 21:32:52 [ThreadId 15] ERROR phoityne - [WARN] source command is not supported. ignored.
+2019-11-25 21:32:54 [ThreadId 15] ERROR phoityne - "error: \8226 Syntax error on 'DirectionsReduction Perhaps you intended to use TemplateHaskell or TemplateHaskellQuotes \8226 In the Template Haskell quotation 'DirectionsReduction"
+2019-11-25 21:32:54 [ThreadId 15] ERROR phoityne - "error: \8226 Syntax error on 'DirectionsReduction Perhaps you intended to use TemplateHaskell or TemplateHaskellQuotes \8226 In the Template Haskell quotation 'DirectionsReduction"
+2019-11-25 21:32:56 [ThreadId 15] ERROR phoityne - "error: Variable not in scope: unsupported"
+2019-11-25 21:32:57 [ThreadId 15] ERROR phoityne - "error: \8226 Syntax error on 'DirectionsReduction Perhaps you intended to use TemplateHaskell or TemplateHaskellQuotes \8226 In the Template Haskell quotation 'DirectionsReduction"
+2019-11-25 21:34:07 [ThreadId 15] ERROR phoityne - "error: Variable not in scope: directions"
+2019-11-25 21:34:11 [ThreadId 15] ERROR phoityne - "error: Variable not in scope: directions"
+2019-11-25 21:34:14 [ThreadId 15] ERROR phoityne - "error: Variable not in scope: directions"
+2019-11-25 21:34:38 [ThreadId 15] ERROR phoityne - "error: \8226 Couldn't match type \8216Direction\8217 with \8216(a, b) -> a\8217 Expected type: [(a, b) -> a] Actual type: [Direction] \8226 In the second argument of \8216(:)\8217, namely \8216rest\8217 In the expression: fst : rest"
+2019-11-25 21:35:41 [ThreadId 15] ERROR phoityne - "\"extractSourcePosition\" (line 2, column 6):\nunexpected end of input\nexpecting \"Stopped at \" or \"Stopped in \" [INPUT],East]\nH>>= "
+2019-11-25 21:35:48 [ThreadId 15] ERROR phoityne - "\"extractSourcePosition\" (line 2, column 6):\nunexpected end of input\nexpecting \"Stopped at \" or \"Stopped in \" [INPUT],East]\nH>>= "
+2019-11-25 21:37:04 [ThreadId 15] ERROR phoityne - "error: Variable not in scope: directions"
