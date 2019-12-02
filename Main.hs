@@ -1,10 +1,10 @@
 module Main where
 
-import DescendingOrder (descendingOrder)
+import CountingDuplicates (duplicateCount)
 
 main :: IO ()
 main =
     let 
-        x1 = descendingOrder 1021
+        x1 = duplicateCount "Indivisibilities" 
     in
-        print x1
+        print x1 -- 1
